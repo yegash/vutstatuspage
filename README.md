@@ -1,0 +1,2 @@
+# vutstatuspage
+Basic Status Page
